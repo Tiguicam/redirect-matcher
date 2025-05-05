@@ -1,0 +1,5 @@
+pandas
+rapidfuzz
+matplotlib
+openpyxl
+sentence-transformers
